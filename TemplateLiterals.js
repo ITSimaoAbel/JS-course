@@ -12,4 +12,4 @@ console.log(mensagem);
 //Exemplo com Expressões
 const a = 5;
 const b = 10;
-console.log(`A soma de ${a} e ${b} é ${a + b}.`); // Saída: "A soma de 5 e 10 é 15."
+console.log(`A soma de ${a} e ${b} é ${a + b}.`); 
