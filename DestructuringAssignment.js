@@ -10,5 +10,5 @@ console.log(segundo);
 const pessoa = { nome: 'Ana', idade: 25 };
 const { nome, idade } = pessoa;
 
-console.log(nome); // Saída: "Ana"
-console.log(idade); // Saída: 25
+console.log(nome); 
+console.log(idade); 
